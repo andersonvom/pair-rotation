@@ -1,0 +1,13 @@
+{
+  "name": "pair-rotation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "show": "clear; node bin/show.js",
+    "new-pair": "clear; node bin/newPair.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

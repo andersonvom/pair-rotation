@@ -2,11 +2,10 @@
   "name": "pair-rotation",
   "version": "1.0.0",
   "description": "A simple CLI app to suggest new pairs when pair programming.",
-  "main": "bin/show.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "show": "clear; node bin/show.js",
-    "new-pair": "clear; node bin/newPair.js"
+    "app": "clear; node lib/index.js"
   },
   "author": "Anderson Mesquita <andersonvom@gmail.com>",
   "license": "GPL"
